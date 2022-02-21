@@ -6,7 +6,7 @@
 //TG群:https://t.me/passerbyb2021
 
 //[task_local]
-//7 */1 * * * jd_dj_getPoints.js
+//7 */1 * * * 京东到家鲜豆庄园收水滴
 
 
 //[Script]
