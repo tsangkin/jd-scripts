@@ -8,4 +8,4 @@
 
 青龙拉库命令:
 
-  ql repo https://github.com/tsangkin/jd-scripts.git "jd_" "" "jd|USER_AGENTS|validate|JD"
+	ql repo https://github.com/tsangkin/jd-scripts.git "jd_" "" "jd|USER_AGENTS|validate|JD"
